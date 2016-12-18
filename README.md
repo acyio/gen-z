@@ -15,3 +15,5 @@ To play the game, click PLAY on the main menu, enter your name and choose your c
 	To see the credits for the game, click CREDITS on the main menu. 
 
 We hope you enjoy the game as much as we did making it! – The Gen-Z Team
+
+Disclaimer: You can use the provided code for reference purposes. Please do not copy or plagiarize my work. Thanks for your cooperation.
