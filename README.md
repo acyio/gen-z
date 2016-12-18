@@ -16,4 +16,4 @@ To play the game, click PLAY on the main menu, enter your name and choose your c
 
 We hope you enjoy the game as much as we did making it! – The Gen-Z Team
 
-Disclaimer: You can use the provided code for reference purposes. Please do not copy or plagiarize my work. Thanks for your cooperation.
+Disclaimer: You can use the provided code for reference purposes only. Please do not copy or plagiarize the work. Thanks for your cooperation.
