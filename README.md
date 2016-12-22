@@ -1,4 +1,4 @@
-GEN-Z
+Gen-Z
 ------
 
 Using Xcode 8/Swift 3
